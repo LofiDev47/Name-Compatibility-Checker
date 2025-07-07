@@ -22,9 +22,9 @@ Download the latest .exe file
 
 Run it — No installation required!
 
-##💻 Run from Source (Python)
+💻 Run from Source (Python)
 
-###Clone the repository
+Clone the repository
 
 
 ```
