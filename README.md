@@ -27,15 +27,21 @@ Run it — No installation required!
 ###Clone the repository
 
 
-```git clone https://github.com/LofiDev47/Name-Compatibility-Checker.git```
+```
+git clone https://github.com/LofiDev47/Name-Compatibility-Checker.git
+```
 Navigate to the project folder
 
 
-```cd Name-Compatibility-Checker```
+```
+cd Name-Compatibility-Checker
+```
 Run the script
 
 
-```python compatibility_checker.py```
+```
+python compatibility_checker.py
+```
 (Replace compatibility_checker.py with your actual file name if different)
 
 
