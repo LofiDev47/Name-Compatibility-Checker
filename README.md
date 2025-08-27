@@ -42,7 +42,7 @@ Run the script
 ```
 python compatibility_checker.py
 ```
-(Replace compatibility_checker.py with your actual file name if different)
+
 
 
 📃 License
