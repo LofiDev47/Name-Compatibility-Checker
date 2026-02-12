@@ -41,9 +41,7 @@ If available, you can also download the prebuilt `.exe` from the repository’s 
 ├── README.md
 └── LICENSE
 ```
-```
-python compatibility_checker.py
-```
+
 
 
 ## License
