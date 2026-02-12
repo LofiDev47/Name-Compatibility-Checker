@@ -4,15 +4,8 @@ A lightweight desktop app built with **Python + Tkinter** that calculates a fun 
 
 ## Features
 
-- Clean and simple GUI
-- Deterministic compatibility scoring (same pair → same result)
-- Input validation for safer, cleaner output
-- Keyboard shortcut support (`Enter` to calculate)
-- Quick link to the author’s GitHub profile
-
-## Disclaimer
-
-This project is intended for **entertainment purposes only**. Compatibility scores are not scientifically meaningful.
+- Deterministic compatibility scoring
+- Input validation
 
 ## Requirements
 
@@ -31,7 +24,8 @@ python compatibility_checker.py
 
 ### Windows executable
 
-If available, you can also download the prebuilt `.exe` from the repository’s **Releases** page.
+you can also download the prebuilt [.exe](https://github.com/LofiDev47/Name-Compatibility-Checker/releases/download/main/compatibility_checker.exe) from the repository’s **Releases** page.
+
 
 ## Project Structure
 
