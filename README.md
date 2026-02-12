@@ -1,47 +1,51 @@
-💖 Name Compatibility Checker 💖
+# 💖 Name Compatibility Checker
 
-A fun and simple Name Compatibility Checker built with Python and Tkinter! Enter two names and get a randomized compatibility score between 0% and 100%. Perfect for playing around with friends, couples, or just for laughs.
+A lightweight desktop app built with **Python + Tkinter** that calculates a fun compatibility score for two names.
 
+## Features
 
-⚠️ Disclaimer
+- Clean and simple GUI
+- Deterministic compatibility scoring (same pair → same result)
+- Input validation for safer, cleaner output
+- Keyboard shortcut support (`Enter` to calculate)
+- Quick link to the author’s GitHub profile
 
-The compatibility score is randomly generated for entertainment purposes only. Please don’t take the results seriously.
+## Disclaimer
 
-🛠 Requirements (For Source Code)
+This project is intended for **entertainment purposes only**. Compatibility scores are not scientifically meaningful.
 
-Python 3.x
+## Requirements
 
-Tkinter (Included with standard Python installation)
+- Python 3.8+
+- Tkinter (bundled with most Python installations)
 
-🚀 How to Use
+## Getting Started
 
-🖥 Run the .exe (Recommended for Windows)
-Go to the Releases section
+### Run from source
 
-Download the latest .exe file
-
-Run it — No installation required!
-
-💻 Run from Source (Python)
-
-Clone the repository
-
-
+```bash
 git clone https://github.com/LofiDev47/Name-Compatibility-Checker.git
-Navigate to the project folder
-
-
 cd Name-Compatibility-Checker
-Run the script
-
-
 python compatibility_checker.py
-(Replace compatibility_checker.py with your actual file name if different)
+```
 
+### Windows executable
 
-📃 License
+If available, you can also download the prebuilt `.exe` from the repository’s **Releases** page.
 
-MIT license
-This project is for entertainment and educational purposes. Feel free to use, modify, or share it with proper credit.
+## Project Structure
 
-Made by LofiDev47 — Thanks for playing!
+```text
+.
+├── compatibility_checker.py
+├── README.md
+└── LICENSE
+```
+
+## License
+
+This project is released under the **MIT License**. See `LICENSE` for details.
+
+---
+
+Made by [LofiDev47](https://github.com/LofiDev47)
